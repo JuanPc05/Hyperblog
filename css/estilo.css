@@ -3,7 +3,7 @@ body{
     text-align: center;
     font-family: "courier";
     font-size: 16px;
-    background: linear-gradient(to top, rgb(72, 1, 153), white);
+    background: transparent;
 
 }
 
@@ -18,7 +18,7 @@ body{
 
 #cabecera
 {
-    background-color: rgb(16, 13, 41);
+    background-color: rgb(36, 36, 117);
     box-shadow: 0px 2px 5px rgb(0, 0, 0.75);
     color: white;
     font-weight: bold;
